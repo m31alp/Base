@@ -351,6 +351,22 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/16_Motherday2021/16_2.jpg"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 17 - Vòng tròn",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17.jpeg",
+   		 "sessionKey": "omnaga",
+   		 "content": [
+			 {    
+			    "title":"Healing",
+			    "extension": "2ZFWHt5daos",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17_1.webp"
+			 },
+			 {    
+			    "title":"OM NAGA",
+			    "extension": "Li3dltx4Ud8",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17_2.webp"
+			 }
+		 	]
 		}
 		]		 
 	}
