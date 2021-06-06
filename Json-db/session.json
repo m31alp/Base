@@ -367,6 +367,17 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17_2.webp"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 18 - Vesak 2021",
+		 "sessionThumbnail": "",
+   		 "sessionKey": "vevesak",
+   		 "content": [
+			 {    
+			    "title":"Vesak 2021",
+			    "extension": "fPpP4zxKUJY",
+			    "thumbnail": ""
+			 }
+		 	]
 		}
 		]		 
 	}
