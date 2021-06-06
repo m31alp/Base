@@ -369,13 +369,13 @@
 		 	]
 		},
 		{"sessionName": "Phiên 18 - Vesak 2021",
-		 "sessionThumbnail": "",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/18_Vesak2021/18_2.jpg",
    		 "sessionKey": "vevesak",
    		 "content": [
 			 {    
 			    "title":"Vesak 2021",
 			    "extension": "fPpP4zxKUJY",
-			    "thumbnail": ""
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/18_Vesak2021/18_1.webp"
 			 }
 		 	]
 		}
