@@ -378,6 +378,28 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/18_Vesak2021/18_1.webp"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 19 - 6:6:2021=8",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/19_662021/19_1.png",
+   		 "sessionKey": "6636",
+   		 "content": [
+			 {    
+			    "title":"6620218",
+			    "extension": "uDtHZI1xIRE",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/19_662021/19_2.webp"
+			 }
+		 	]
+		},
+		{"sessionName": "Phiên 20 - Nhật thực 10/06/2021",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/20_Eclip062021/20_1.png",
+   		 "sessionKey": "6742",
+   		 "content": [
+			 {    
+			    "title":"Nhật thực",
+			    "extension": "AeuqnAp2JQg",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/20_Eclip062021/20_2.webp"
+			 }
+		 	]
 		}
 		]		 
 	}
