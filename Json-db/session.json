@@ -411,6 +411,17 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/21_TwoEvents_202106/21_2.webp"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 22 - Tháng 7/2021",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/22_NewJuly2021/22_0.png",
+   		 "sessionKey": "1472021",
+   		 "content": [
+			 {    
+			    "title":"Kích hoạt 7:7",
+			    "extension": "qQDhf18ce28",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/22_NewJuly2021/22_1.webp"
+			 }
+		 	]
 		}
 		]		 
 	}
