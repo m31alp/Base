@@ -1,74 +1,6 @@
 {
    "query":{
-      "pages": [{"sessionName": "Phiên 1 - Ngày 9/8",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/1-thumbnail.jpeg",
-      		 "sessionKey": "khoidong#89",
-      		 "content": [
-			 {    
-			    "title":"9-12/8 - Ngày 1 phần 1",
-			    "extension": "f9A2pDCXWio",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_1_1_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 1 phần 2",
-			    "extension": "sNCrlEIa3DA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_1_2_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 2 phần 1",
-			    "extension": "qAxuy_iU5kw",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_2_1_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 2 phần 2",
-			    "extension": "f7HrbXg1DDE",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_2_2_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 3 phần 1",
-			    "extension": "eq1wXBR20Nk",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_3_1_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 3 phần 2",
-			    "extension": "KVQ_pLteBs0",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_3_2_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 4 phần 1",
-			    "extension": "hNL42OikSIM",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_4_1_thumbnail.webp"
-			 },
-			 {  "title": "9-12/8 - Ngày 4 phần 2",
-			    "extension": "krMnPg-Udb4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_4_2_thumbnail.webp"
-			 }
-		      	]
-   		}, 
-   		{"sessionName": "Phiên 2 - Ngày 27/9",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/2_Sep27th/2-thumbnail.png",
-   		 "sessionKey": "buoitoi#589",
-   		 "content": [
-			 {    
-			    "title":"27/9 - 4 Phần Chữa Lành",
-			    "extension": "ZSIhU0-zniU",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/2_Sep27th/Sep27_fresh.webp"
-			 },
-			 {  "title": "27/9 - Năng lượng 9:9",
-			    "extension": "LhLY9ju4jgw",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/2_Sep27th/Sep27_9_9_thumbnail.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 3 - Ngày 10/10",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/3_Oct10/3_thumbnail.png",
-   		 "sessionKey": "dulieurong@32",
-   		 "content": [
-			 {    
-			    "title":"10/10 - Chữa Lành 10:10 Phần 1",
-			    "extension": "cLVy1PGKZCs",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/3_Oct10/Oct10_1010_1.webp"
-			 },
-			 {  "title": "10/10 - Chữa Lành 10:10 Phần 2",
-			    "extension": "eIFIg6rsXoM",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/3_Oct10/Oct10_1010_2.webp"
-			 }
-		 	]
-		},
+      "pages": [ 
 		{"sessionName": "Phiên 4",
 		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/images.jpeg",
    		 "sessionKey": "congtroi",
@@ -82,76 +14,6 @@
 			    "title":"Dịch chuyển tâm thức vĩ đại",
 			    "extension": "IRitd8Hfwz4",
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/images.jpeg"
-			 },
-			 {    
-			    "title":"C9 - Ngày 1 phần 1",
-			    "extension": "ocUOPDDS5TA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l91-1.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 1 phần 2",
-			    "extension": "20wKyqh5o0M",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l91-2.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 1 phần 3",
-			    "extension": "HcKjxmSn5AI",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l91-3.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 1 phần 4",
-			    "extension": "AeQVc3ApyLg",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l91-4.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 2 phần 1",
-			    "extension": "lKfzvw_QVLc",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l92-1.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 2 phần 2",
-			    "extension": "_62s_6QnF-4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l92-2.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 3 phần 1",
-			    "extension": "kewvXMZMK9U",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l93-1.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 3 phần 2",
-			    "extension": "gXyA3uNG1bM",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l93-2.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 3 phần 3",
-			    "extension": "cXSE0JZ1HHE",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l93-3.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 3 phần 4",
-			    "extension": "b-JmGnkFsbk",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l93-4.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 4 phần 1",
-			    "extension": "lT2rqLbTmaA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l94-1.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 4 phần 2",
-			    "extension": "kU9L4u4joE4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l94-2.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 4 phần 3",
-			    "extension": "AgLHNempOqU",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l94-3.webp"
-			 },
-			 {    
-			    "title":"C9 - Ngày 4 phần 4",
-			    "extension": "PirYRswPioI",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/4_Thanks/l94-4.webp"
 			 }
 		 	]
 		},
@@ -163,79 +25,6 @@
 			    "title":"7 Chakra Meditation",
 			    "extension": "vP3LhvHHiKU",
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/5_Mediation/7-mediation.jpg"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 6 - Long Hoa",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_0.png",
-   		 "sessionKey": "longhoa###2021",
-   		 "content": [
-			 {    
-			    "title":"Ngày 1 P1",
-			    "extension": "3AdO1Tvb7-Q",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_1_1.webp"
-			 },
-			 {    
-			    "title":"Ngày 1 P2",
-			    "extension": "ylgztBcEWyM",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_1_2.webp"
-			 },
-			 {    
-			    "title":"Ngày 2 P1",
-			    "extension": "iADHKa13nD8",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_2_1.webp"
-			 },
-			 {    
-			    "title":"Ngày 2 P2",
-			    "extension": "eLif7h6fVBA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_2_2.jpg"
-			 },
-			 {    
-			    "title":"Ngày 3 P1",
-			    "extension": "nF1-EfgauY0",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_3_1.jpg"
-			 },
-			 {    
-			    "title":"Ngày 3 P2",
-			    "extension": "ISOMyTfwDls",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_3_2.jpg"
-			 },
-			 {    
-			    "title":"Ngày 4",
-			    "extension": "U9ndDDhl1PY",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/6_LH/lh_4.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 7 - 10/01/2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/5_Mediation/7.jpg",
-   		 "sessionKey": "ngay102021",
-   		 "content": [
-			 {    
-			    "title":"10/01/2021 Phần 1",
-			    "extension": "1VQvcrs8n6Q",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/7_Jan2021/7_1.jpg"
-			 },
-			 {    
-			    "title":"10/01/2021 Phần 2",
-			    "extension": "pnCVqhDfMh4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/7_Jan2021/7_2.webp"
-			 },
-			 {    
-			    "title":"10/01/2021 Phần 3",
-			    "extension": "niDV8YMA6To",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/7_Jan2021/7_3.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 8 - 02/02/2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/8_Feb02/0202.jpeg",
-   		 "sessionKey": "co21",
-   		 "content": [
-			 {    
-			    "title":"02/02/2021",
-			    "extension": "-MS1U0mHCeY",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/8_Feb02/02022021.webp"
 			 }
 		 	]
 		},
@@ -260,28 +49,6 @@
 			 }
 		 	]
 		},
-		{"sessionName": "Phiên 10 - Rằm Tháng Giêng 2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/10_FullMoon2021/10_0.jpg",
-   		 "sessionKey": "trangram2021",
-   		 "content": [
-			 {    
-			    "title":"Rằm Tháng Giêng",
-			    "extension": "N0kEjEWiZqA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/10_FullMoon2021/10_fullmoon.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 11 - Xuân Phân 2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/11_SpringEquinox2021/11_spring_equinox.jpg",
-   		 "sessionKey": "xuanxuan",
-   		 "content": [
-			 {    
-			    "title":"Xuân Phân",
-			    "extension": "VLm3_U6nP3I",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/11_SpringEquinox2021/11_spring_equinox.jpg"
-			 }
-		 	]
-		},
 		{"sessionName": "Phiên 12 - Ngày 3/4",
 		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/12_Prosperous/12_0.jpg",
    		 "sessionKey": "ngaydenho",
@@ -303,50 +70,6 @@
 			 }
 		 	]
 		},
-		{"sessionName": "Phiên 13 - Rằm 27/04/2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/13_FullMoon2104/13_00.jpg",
-   		 "sessionKey": "xuanram",
-   		 "content": [
-			 {    
-			    "title":"Rằm 27.04.2021",
-			    "extension": "MBum-J_oCoc",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/13_FullMoon2104/13_1.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 14 - Ngày 2/5",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/14_2_dates/14_1.webp",
-   		 "sessionKey": "2ngay",
-   		 "content": [
-			 {    
-			    "title":"2/5",
-			    "extension": "3K6oTKuIKy0",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/14_2_dates/14_1.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 15 - Ngày 5/5",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/14_2_dates/14_3.webp",
-   		 "sessionKey": "5ngay",
-   		 "content": [
-			 {    
-			    "title":"5/5",
-			    "extension": "lnh_9MKHlKQ",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/14_2_dates/14_3.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 16 - Mother's Day 2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/16_Motherday2021/16_0.jpg",
-   		 "sessionKey": "mum2021",
-   		 "content": [
-			 {    
-			    "title":"5/5",
-			    "extension": "_1ap5eYMof8",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/16_Motherday2021/16_2.jpg"
-			 }
-		 	]
-		},
 		{"sessionName": "Phiên 17 - Vòng tròn",
 		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17.jpeg",
    		 "sessionKey": "omnaga",
@@ -360,39 +83,6 @@
 			    "title":"OM NAGA",
 			    "extension": "E7IXuPuAVus",
 			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/17_Circle/17_2.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 18 - Vesak 2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/18_Vesak2021/18_0.jpg",
-   		 "sessionKey": "vevesak",
-   		 "content": [
-			 {    
-			    "title":"Vesak 2021",
-			    "extension": "WOaVnUzoMa4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/18_Vesak2021/18_1.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 19 - 6:6:2021=8",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/19_662021/19_1.png",
-   		 "sessionKey": "6636",
-   		 "content": [
-			 {    
-			    "title":"6620218",
-			    "extension": "XaeO6SJBFuA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/19_662021/19_2.webp"
-			 }
-		 	]
-		},
-		{"sessionName": "Phiên 20 - Nhật thực 10/06/2021",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/20_Eclip062021/20_1.png",
-   		 "sessionKey": "6742",
-   		 "content": [
-			 {    
-			    "title":"Nhật thực",
-			    "extension": "_irnGHFiUcg",
-			    "thumbnail": "https://raw.githubusercontent.com/m31alp/Base/master/QN2_thumbnail/20_Eclip062021/20_2.webp"
 			 }
 		 	]
 		},
